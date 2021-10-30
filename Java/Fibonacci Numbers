@@ -5,7 +5,7 @@ public class FibbonaciNumbers {
 	
 		
 		Scanner sc= new Scanner(System.in);
-		System.out.print("Enter the length of sequence :");
+		System.out.print("Enter the length of fibonacci sequence :");
 		int n=sc.nextInt();
 		int a=0;
 		int b=1;
